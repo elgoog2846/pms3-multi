@@ -1,9 +1,0 @@
-pluginManagement {
-	repositories {
-		gradlePluginPortal()
-	}
-}
-
-rootProject.name = 'pms3-multi'
-	include 'pms3-multi-core'
-	include 'pms3-multi-web'
